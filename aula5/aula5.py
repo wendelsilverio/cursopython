@@ -19,3 +19,4 @@ print('Potência:', 2 ** 2)
 print('Resto da divisão:', 10 % 3)
 
 print('Precedência:', (5 + 2) * 10)
+print('Precedência:', 2 + 5 * 3 ** 2 - (23.5 + 23.5))
